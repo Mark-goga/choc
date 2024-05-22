@@ -1,44 +1,44 @@
 const renderArray = [
     {
         title: "MILK CHOCOLATE",
-        img: "/images/img-1.png",
+        img: "../images/img-1.png",
         altText: "milk chocolate",
         textButt: "chocolate",
         text: "Milk chocolate is a solid chocolate confectionery containing cocoa, sugar and milk. It is the most consumed type of chocolate. Chocolate was originally sold and consumed as a beverage in pre-Columbian times. Although four-fifths of all milk chocolate is sold in the United States and Europe."
     },
     {
         title: "MILK",
-        img: "/images/img-2.png",
+        img: "../images/img-2.png",
         altText: "milk",
         text: "Milk is a white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for young mammals (including breastfed human infants) before they are able to digest solid food.Early-lactation milk, which is called colostrum, contains antibodies that strengthen the immune system."
     },
     {
         title: "NUTS",
-        img: "/images/img-3.png",
+        img: "../images/img-3.png",
         altText: "nuts",
         text: "Almonds, pistachios, and walnuts are some types of nuts that contain healthy nutrients. When eaten as part of a nutrient-dense diet, these 9 nuts may offer benefits such as reducing your risk of heart disease. They’re a good source of fiber, healthy fats, and plant protein. Plus, they’re great on their own."
     },
     {
         title: "SEMI - SWEET CHOCOLATE",
-        img: "/images/img-4.png",
+        img: "../images/img-4.png",
         altText: "SEMI - SWEET CHOCOLATE",
         text: "Semi-sweet chocolate has a cocoa solid content of 35 to 65%. One of the best ways to gain an understanding of this type of chocolate is to compare it to a different type of chocolate. Semisweet is darker than milk chocolate. In a taste comparison, it has a slightly bitter taste whereas milk chocolate is sweeter." 
     },
     {
         title: "CACAO",
-        img: "/images/img-5.png",
+        img: "../images/img-5.png",
         altText: "cacao",
         text: "Cocoa is a natural product obtained from the fruits of the cocoa tree (Theobroma cacao). This tropical fruit contains beans, from which cocoa mass, cocoa powder and chocolate are made. The history of the use of cocoa goes back to ancient times. Already in ancient Mesoamerica, the Mayan and Aztec civilizations used cocoa in their culture and rituals"
     },
     {
         title: "RASPBERRY",
-        img: "/images/img-6.png",
+        img: "../images/img-6.png",
         altText: "raspberry",
         text: "Raspberry is a tasty and aromatic berry plant that is popular all over the world. It belongs to the pink family and grows in many regions, including North America, Europe and Asia. Raspberries have many varieties and color variations, from red to yellow and black."
     },
     {
         title: "COCONUT OIL",
-        img: "/images/img-7.png",
+        img: "../images/img-7.png",
         altText: "coconut oil",
         text: "Cocoa is a natural product obtained from the fruits of the cocoa tree (Theobroma cacao). This tropical fruit contains beans, from which cocoa mass, cocoa powder and chocolate are made. The history of the use of cocoa goes back to ancient times. Already in ancient Mesoamerica, the Mayan and Aztec civilizations used cocoa in their culture and rituals"
     },
